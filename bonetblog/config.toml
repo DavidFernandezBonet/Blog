@@ -1,0 +1,4 @@
+baseURL = 'https://davidfernandezbonet.github.io/'
+languageCode = 'en-us'
+title = 'BonetBlog'
+theme = "Anatole"
