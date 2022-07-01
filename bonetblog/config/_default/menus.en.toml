@@ -11,26 +11,26 @@
   url = "/post/"
 
   [[main]]
-  name = "Talks"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
+  name = "Educated ramblings"
+  weight = 210
+  identifier = "educated_ramblings"
+  url = "/educated_ramblings/"
+  parent = "posts"
 
   [[main]]
-  name = "Topics"
-  weight = 400
-  identifier = "about"
-  url = "/about/"
+  name = "Journal Reviews"
+  weight = 220
+  identifier = "journal_reviews"
+  url = "/journal_reviews/"
+  parent = "posts"
+
+
+
 
 
   [[main]]
   name = "Contact"
-  weight = 500
+  weight = 300
   identifier = "contact"
   url = "/contact/"
 
-  [[footer]]
-  name = "imprint"
-  weight = 1
-  identifier = "imprint"
-  url = "/imprint/"

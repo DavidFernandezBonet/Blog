@@ -1,0 +1,11 @@
+
+# Inside blog folder
+hugo -t anatole
+
+(where anatole is the theme)
+
+
+# Inside public folder
+git add .
+git commit -m ""
+git push
