@@ -1,0 +1,3 @@
+hugo -t anatole
+
+(where anatole is the theme)
