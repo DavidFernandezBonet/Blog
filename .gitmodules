@@ -1,4 +1,0 @@
-[submodule "bonetblog/public"]
-	path = bonetblog/public
-	url = https://github.com/DavidFernandezBonet/davidfernandezbonet.github.io.git
-	branch = main
