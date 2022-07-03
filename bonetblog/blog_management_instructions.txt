@@ -1,0 +1,10 @@
+# General
+You can tune general parameters by changing stuff in the config folder
+Also under content - home, or content - author, tweak around!
+
+# Posts
+Blog posts are under content - posts
+Each post should have each own folder with a file named "index.md" and the thumbnail image
+
+# Images and favicons
+They are inside static
