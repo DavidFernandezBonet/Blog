@@ -1,8 +1,6 @@
 
-# Inside blog folder
-hugo -t anatole
-
-(where anatole is the theme)
+# Inside blog folder run:
+hugo
 
 
 # Inside public folder

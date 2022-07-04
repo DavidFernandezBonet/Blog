@@ -57,7 +57,7 @@ highlight_name: true
 
 Hello World, I am David, a computational physicist who loves to solve problems ✨
 
-The problems I am facing lately have to do with the very legos that define who we are: DNA. In particular, I deal with DNA Microscopy 🧬
+The problems I am facing have to do with the very legos that define who we are: DNA. In particular, I deal with DNA Microscopy 🧬
 
 DNA Microscopy aims to map spatial information through DNA, as opposed to classic approaches which use light. Image obtention from DNA is challenging. It involves math, computer science, and passion 💻
 

@@ -19,5 +19,5 @@ content:
   form:
     provider: formspree
     formspree:
-      id: https://formspree.io/f/xnqwyenv
+      id: xnqwyenv
 ---
